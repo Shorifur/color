@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgreen;
+}
+h1{
+    color: chartreuse;
+}
+.title {
+    color: teal;
+}
+button{
+    color: darkgoldenrod;
+    align-self: center;
+    resize: horizontal;
+}
